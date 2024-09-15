@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @rafaela-schenfeld
-- 👀 I’m interested in data analysis, business intelligence, and IT business analysis. I am passionate about using data to uncover insights, optimize processes, and drive strategic business decisions.
-- 🌱 I’m currently learning methodologies in data science, including machine learning and AI tools for automation. I'm also enhancing my skills in business analysis, such as requirements gathering, process improvement, and stakeholder management, and further refining my proficiency in Python, SQL, Power BI, and managing projects in Jira.
-- 💞️ I’m looking to collaborate on projects related to data analysis, business process optimization, predictive modeling, and creating impactful dashboards and reports. I am especially interested in opportunities that involve integrating AI and machine learning into business analysis to solve real-world problems.
-- 📫 Feel free to connect via LinkedIn /rafaelaschenfeld or reach out directly at rafaela.schenfeld@outlook.com.
-- ⚡ Fun fact: I love detective and medical series for their problem-solving elements, and I enjoy solving puzzles and engaging in outdoor activities. When I'm not studying or working, you can find me at the beach or tackling mind games and puzzles.
+Hey there, I'm Rafaela! 👋
+I'm a soon-to-be IT graduate with a passion for turning data into gold (well, insights, but they're just as valuable!).
+
+What I'm all about 🚀
+- Digging into data to uncover hidden gems of information
+- Bridging the gap between tech speak and business talk
+- Always learning new ways to make data work smarter, not harder
+
+My toolbox 🛠️ 
+I'm constantly sharpening my skills in:
+- Python 🐍
+- SQL 📊
+- BI tools 📈
+
+Let's connect! 🤝
+- Find me on LinkedIn: /rafaelaschenfeld
+- Drop me a line: rafaela.schenfeld@outlook.com
+
+A fact about me ⚡
+When I'm not crunching numbers, you might find me solving puzzles, watching some crime series or at the beach.
+Stay tuned for some data magic! ✨
 
 <!---
 rafaela-schenfeld/rafaela-schenfeld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
