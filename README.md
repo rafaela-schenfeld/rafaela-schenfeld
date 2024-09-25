@@ -16,9 +16,7 @@ Let's connect! 🤝
 - Find me on LinkedIn: /rafaelaschenfeld
 - Drop me a line: rafaela.schenfeld@outlook.com
 
-A fact about me ⚡
-When I'm not crunching numbers, you might find me solving puzzles, watching some crime series or at the beach.
-Stay tuned for some data magic! ✨
+A fact about me: When I'm not crunching numbers, you might find me solving puzzles, watching some crime series or at the beach. ✨
 
 <!---
 rafaela-schenfeld/rafaela-schenfeld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
